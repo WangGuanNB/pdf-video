@@ -552,6 +552,16 @@
           "alt": "Featured on The One Startup",
           "height": 54
         }
+      },
+      {
+        "title": "Featured on Toolgame.com",
+        "url": "https://toolgame.com/item/pdf-video",
+        "target": "_blank",
+        "image": {
+          "src": "https://toolgame.com/badge-dark.svg",
+          "alt": "Featured on Toolgame.com",
+          "height": 54
+        }
       }
     ],
     "agreement": {
