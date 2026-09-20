@@ -323,37 +323,49 @@
         "title": "Sarah Chen",
         "label": "High School Physics Teacher",
         "description": "I frequently need to convert courseware into videos for student preview. The free PDF to video conversion for quizzes under 5 pages is very convenient, and pricing for longer lectures is reasonable too. Recording one class video used to take 2 hours—now just 5 minutes with this converter. Students say the results are much better than PPT.",
-        "image": { "src": "/imgs/users/1.png" }
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
       },
       {
         "title": "Mark Rivera",
         "label": "YouTube Creator",
         "description": "As a social media creator, I need to produce content quickly. This PDF to video converter lets me turn articles into videos for publishing—views increased 62%. Transparent pricing and free trial for small documents is very user-friendly. The PDF to video quality is outstanding.",
-        "image": { "src": "/imgs/users/2.png" }
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
       },
       {
         "title": "Li Ming",
         "label": "Corporate Trainer",
         "description": "Our company training manual has 80+ pages. Per-page pricing is much cheaper than hiring someone to make videos. Using this PDF to video AI tool to convert to video improved new employee onboarding efficiency by 40%. AI voiceover is natural and subtitles are accurate.",
-        "image": { "src": "/imgs/users/3.png" }
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
       },
       {
         "title": "Emma Watson",
         "label": "Marketing Manager",
         "description": "I use this tool to convert PDF to video for product manuals into promotional videos. Free for short docs is perfect for testing. After confirming good results, paying for longer docs is worthwhile too. Clients prefer watching videos—inquiry conversion rate increased 35%.",
-        "image": { "src": "/imgs/users/4.png" }
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
       },
       {
         "title": "Chen Xiao",
         "label": "Online Course Instructor",
         "description": "This PDF to video generator helps me quickly convert lecture notes into video courses. Batch processing is so time-saving—uploading 10 files for simultaneous conversion. The output 4K video quality fully meets professional standards.",
-        "image": { "src": "/imgs/users/5.png" }
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
       },
       {
         "title": "James Kim",
         "label": "Independent Blogger",
         "description": "From PDF to video AI conversion to publishing takes just minutes. I can now produce 3-4 high-quality video content pieces daily. Multi-platform format support means I don't need to re-edit—work efficiency increased 3x with this amazing converter.",
-        "image": { "src": "/imgs/users/6.png" }
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
       }
     ]
   },
@@ -458,7 +470,8 @@
             {
               "title": "FireRed Image Edit",
               "url": "https://fireredimage.org/"
-            },{
+            },
+            {
               "title": "paper-banana",
               "url": "https://paper-banana.app/"
             }
@@ -500,34 +513,58 @@
     },
     "badges": [
       {
-        "title": "Featured on Toolgame.com",
-        "url": "https://toolgame.com/item/pdf-video",
+        "title": "AstroCarto",
+        "url": "https://astrocarto.org/",
         "target": "_blank",
         "image": {
-          "src": "https://toolgame.com/badge-dark.svg",
-          "alt": "Featured on Toolgame.com",
-          "height": 54
-        }
-      }
-      ,
-      {
-        "title": "Transit Chart",
-        "url": "https://transitchart.org",
-        "target": "_blank",
-        "image": {
-          "src": "https://transitchart.org/badge-dark.svg",
-          "alt": "Transit Chart",
-          "height": 54
+          "src": "/imgs/badges/astrocarto.svg",
+          "alt": "AstroCarto",
+          "width": 140,
+          "height": 40
         }
       },
       {
-        "title": "Astrology Compatibility",
-        "url": "https://astrologycompatibility.org",
+        "title": "Matrix Destiny",
+        "url": "https://matrix-destiny.net",
         "target": "_blank",
         "image": {
-          "src": "https://astrologycompatibility.org/badge-dark.svg",
-          "alt": "Astrology Compatibility",
-          "height": 54
+          "src": "/imgs/badges/matrix-destiny.svg",
+          "alt": "Matrix Destiny",
+          "width": 150,
+          "height": 40
+        }
+      },
+      {
+        "title": "Make It Longer",
+        "url": "https://makeitlonger.com",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/badges/makeitlonger.svg",
+          "alt": "Make It Longer",
+          "width": 150,
+          "height": 40
+        }
+      },
+      {
+        "title": "Annora Sky",
+        "url": "https://annorasky.com",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/badges/annorasky.svg",
+          "alt": "Annora Sky",
+          "width": 130,
+          "height": 40
+        }
+      },
+      {
+        "title": "Landscape Design AI",
+        "url": "https://landscapedesignai.net",
+        "target": "_blank",
+        "image": {
+          "src": "/imgs/badges/landscapedesignai.svg",
+          "alt": "Landscape Design AI",
+          "width": 170,
+          "height": 40
         }
       }
     ],
