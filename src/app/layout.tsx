@@ -58,7 +58,9 @@ export default async function RootLayout({
             (function(){
               try{
                 var allowNoFollowHosts = [
-                  'startupfa.me'
+                  'startupfa.me',
+                  'myaivideomaker.com',
+                  'www.myaivideomaker.com'
                 ];
                 var anchors = document.querySelectorAll('a[href^="http"], a[target="_blank"]');
                 anchors.forEach(function(a){

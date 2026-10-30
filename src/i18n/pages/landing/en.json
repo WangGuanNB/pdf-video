@@ -548,7 +548,8 @@
       {
         "title": "My AI Video Maker",
         "url": "https://myaivideomaker.com/",
-        "target": "_blank"
+        "target": "_blank",
+        "dofollow": true
       },
       {
         "title": "Jean Phil AI",
